@@ -7,7 +7,7 @@ You can click in the position of each bus to get information about the occupancy
 ## How to run
 Just open the index.html and you will get all the information about the position of the buses.
 
-## Future improvements
+## Roadmap
 It will have information about the route. Address of current position.
 
 ## Licence
